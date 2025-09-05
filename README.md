@@ -4,7 +4,7 @@
 
 # Court Data Extractor
 
-A Python library for extracting structured data from Russian court decisions, including punishments, territorial jurisdiction, gender information, and criminal code articles. You can find demo notebook [here](notebooks/court_extractor_demo.ipynb).
+A Python library for extracting structured data from Russian court decisions, including punishments, territorial jurisdiction, gender information and criminal code articles. You can find demo notebook [here](notebooks/court_extractor_demo.ipynb).
 
 ## Modules
 
