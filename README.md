@@ -1,10 +1,10 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY—NC—SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-> **ℹ️ This project was created as part of the Digital Lab Initiativeof the Russia Program at The George Washington University.**
+> **This project was created as part of the Digital Lab Initiative of the Russia Program at The George Washington University.**
 
 # Court Data Extractor
 
-A Python library for extracting structured data from Russian court decisions, including punishments, territorial jurisdiction, gender information, and criminal code articles.
+A Python library for extracting structured data from Russian court decisions, including punishments, territorial jurisdiction, gender information, and criminal code articles. You can find demo notebook [here](notebooks/court_extractor_demo.ipynb).
 
 ## Modules
 
